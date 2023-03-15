@@ -4,10 +4,7 @@
       普通tab切换(demo1)
     </view>
     <view class="item" @click="goDemo2">
-      普通tab切换(demo2)
-    </view>
-    <view class="item" @click="goDemo">
-      普通tab切换(demo3)
+      swiper + scroll-view(demo2)
     </view>
   </view>
 </template>
@@ -43,13 +40,13 @@ export default {
   flex-direction: column;
 
   .item {
-    width: 70%;
+    width: 80%;
     font-size: #000;
     line-height: 100upx;
     text-align: center;
     border-radius: 4px;
     border: 1px solid #000;
-    margin-bottom: 30upx;
+    margin-bottom: 50upx;
 
     &:last-child {
       margin-bottom: 0;

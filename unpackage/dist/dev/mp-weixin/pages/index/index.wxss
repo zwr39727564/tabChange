@@ -10,13 +10,13 @@
   flex-direction: column;
 }
 .wrap .item.data-v-57280228 {
-  width: 70%;
+  width: 80%;
   font-size: #000;
   line-height: 100rpx;
   text-align: center;
   border-radius: 4px;
   border: 1px solid #000;
-  margin-bottom: 30rpx;
+  margin-bottom: 50rpx;
 }
 .wrap .item.data-v-57280228:last-child {
   margin-bottom: 0;

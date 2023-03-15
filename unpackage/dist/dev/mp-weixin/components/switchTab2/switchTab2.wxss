@@ -1,0 +1,25 @@
+.wrap.data-v-04316f24 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.wrap .tab-item.data-v-04316f24 {
+  font-size: 32rpx;
+  color: #383838;
+  text-align: center;
+  flex: 1;
+  z-index: 10;
+}
+.wrap .active-bar-wrap.data-v-04316f24 {
+  position: absolute;
+  left: 0;
+  bottom: -6rpx;
+}
+.wrap .active-bar-wrap .active-bar.data-v-04316f24 {
+  width: 50%;
+  height: 30rpx;
+  background: #29ffd0;
+  border-radius: 12rpx;
+  margin: 0 auto;
+}
+

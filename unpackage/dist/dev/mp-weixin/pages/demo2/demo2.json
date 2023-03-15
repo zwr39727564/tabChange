@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "tab切换 + 滑动切换",
+  "usingComponents": {
+    "switch-tab": "/components/switchTab2/switchTab2"
+  }
+}

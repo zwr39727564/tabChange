@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "普通tab切换",
+  "usingComponents": {
+    "switch-tab": "/components/switchTab/switchTab"
+  }
+}
